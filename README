@@ -1,0 +1,17 @@
+Blackjack by Fred George, September 2007.  Copyright (c) 2007.  All rights reserved.
+
+INSTALLATION
+
+Install in your usual Ruby application location (dependent on your configuration, machine, OS, etc.)
+
+The application was developed on systems with Rails installed.  Probably the only real 
+dependency is on the gem 'rcov'.  rakefile.rb can be modified to remove that dependency.
+
+EXECUTION
+
+On OS X, Unix, Linux:  script/blackjack
+On Windows: ruby script/blackjack
+
+MORE INFORMATION
+
+Look in doc/ for relevant documentation.

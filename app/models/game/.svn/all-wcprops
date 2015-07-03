@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/blackjack/!svn/ver/7/trunk/app/models/game
+END
+action.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/blackjack/!svn/ver/7/trunk/app/models/game/action.rb
+END
+game_complete.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/blackjack/!svn/ver/7/trunk/app/models/game/game_complete.rb
+END
+game.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/blackjack/!svn/ver/7/trunk/app/models/game/game.rb
+END
+player.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/blackjack/!svn/ver/7/trunk/app/models/game/player.rb
+END

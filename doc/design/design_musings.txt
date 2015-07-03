@@ -1,0 +1,43 @@
+COMPONENTS
+
+An effort was made to decouple the various layers.  For example, Hand has no knowledge
+of Players, only vice-versa.
+
+Major components have been segregated.
+ * model/cards has the elements relating the play of the game
+ * model/game is the orchestration of flow, including players
+ * script/blackjack is a light-weight console game runner
+
+DESIGN
+
+There is use of appropriate design patterns throughout.
+
+Action is a Command Pattern [GOF], representing the possible actions at any point.  An
+Action generally returns a tuple of messages about what has happened since it was 
+initiated, and a set of new Actions that are now possible.
+
+The Action.play is a Decorator [GOF] for other Actions, allowing Game to catch an
+Action for another layer, and complement the processing of the other Action, without
+the lower layers (Hand in particular) knowing about it.
+
+Game has been designed for use with a GUI or the supplied console runner.  It doesn't
+care who is initiating the actions.  For a GUI, I would probably morph the messages
+into events.
+
+Game play includes Players.  Players are forced out when out of money.  When all 
+players have lost (and they will lose), play is restarted with fresh players.
+
+A recursive situation arises when a series of players have blackjack.  No action is
+allowed for that player, but we still want to collect the generated messages and move
+to the next player.  But then, this player might have blackjack.  Hence the recursion.
+This also handles a split hand generating a pair of blackjacks.
+
+For grins, grep the application for occurrences of "else" or "elsif" statements.
+
+TEST
+
+The application was incrementally developed test-first (TDD) using MDD thinking. 
+Attention was also paid to test coverage.  
+
+'rake test' will run all unit tests; 'rake' will run unit and coverage tests.  Coverage
+metrics can be accessed at test/coverage/index.html.

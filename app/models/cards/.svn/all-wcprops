@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/blackjack/!svn/ver/7/trunk/app/models/cards
+END
+shoe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/blackjack/!svn/ver/7/trunk/app/models/cards/shoe.rb
+END
+dealer_hand.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/blackjack/!svn/ver/7/trunk/app/models/cards/dealer_hand.rb
+END
+card.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/blackjack/!svn/ver/7/trunk/app/models/cards/card.rb
+END
+hand.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/blackjack/!svn/ver/7/trunk/app/models/cards/hand.rb
+END
