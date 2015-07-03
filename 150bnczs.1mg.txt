@@ -1,0 +1,87 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	deleted:    app/.svn/all-wcprops
+#	deleted:    app/.svn/entries
+#	deleted:    app/.svn/format
+#	deleted:    app/models/.svn/all-wcprops
+#	deleted:    app/models/.svn/entries
+#	deleted:    app/models/.svn/format
+#	deleted:    app/models/cards/.svn/all-wcprops
+#	deleted:    app/models/cards/.svn/entries
+#	deleted:    app/models/cards/.svn/format
+#	deleted:    app/models/cards/.svn/prop-base/card.rb.svn-base
+#	deleted:    app/models/cards/.svn/prop-base/dealer_hand.rb.svn-base
+#	deleted:    app/models/cards/.svn/prop-base/hand.rb.svn-base
+#	deleted:    app/models/cards/.svn/prop-base/shoe.rb.svn-base
+#	deleted:    app/models/cards/.svn/text-base/card.rb.svn-base
+#	deleted:    app/models/cards/.svn/text-base/dealer_hand.rb.svn-base
+#	deleted:    app/models/cards/.svn/text-base/hand.rb.svn-base
+#	deleted:    app/models/cards/.svn/text-base/shoe.rb.svn-base
+#	deleted:    app/models/game/.svn/all-wcprops
+#	deleted:    app/models/game/.svn/entries
+#	deleted:    app/models/game/.svn/format
+#	deleted:    app/models/game/.svn/prop-base/action.rb.svn-base
+#	deleted:    app/models/game/.svn/prop-base/game.rb.svn-base
+#	deleted:    app/models/game/.svn/prop-base/game_complete.rb.svn-base
+#	deleted:    app/models/game/.svn/prop-base/player.rb.svn-base
+#	deleted:    app/models/game/.svn/text-base/action.rb.svn-base
+#	deleted:    app/models/game/.svn/text-base/game.rb.svn-base
+#	deleted:    app/models/game/.svn/text-base/game_complete.rb.svn-base
+#	deleted:    app/models/game/.svn/text-base/player.rb.svn-base
+#	deleted:    doc/.svn/all-wcprops
+#	deleted:    doc/.svn/entries
+#	deleted:    doc/.svn/format
+#	deleted:    doc/design/.svn/all-wcprops
+#	deleted:    doc/design/.svn/entries
+#	deleted:    doc/design/.svn/format
+#	deleted:    doc/design/.svn/prop-base/design_musings.txt.svn-base
+#	deleted:    doc/design/.svn/text-base/design_musings.txt.svn-base
+#	deleted:    doc/rules/.svn/all-wcprops
+#	deleted:    doc/rules/.svn/entries
+#	deleted:    doc/rules/.svn/format
+#	deleted:    doc/rules/.svn/prop-base/rules1.html.svn-base
+#	deleted:    doc/rules/.svn/text-base/rules1.html.svn-base
+#	deleted:    script/.svn/all-wcprops
+#	deleted:    script/.svn/entries
+#	deleted:    script/.svn/format
+#	deleted:    script/.svn/prop-base/blackjack.svn-base
+#	deleted:    script/.svn/text-base/blackjack.svn-base
+#	deleted:    test/.svn/all-wcprops
+#	deleted:    test/.svn/entries
+#	deleted:    test/.svn/format
+#	deleted:    test/unit/.svn/all-wcprops
+#	deleted:    test/unit/.svn/entries
+#	deleted:    test/unit/.svn/format
+#	deleted:    test/unit/.svn/prop-base/action_execution_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/action_map_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/dealer_hand_action_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/game_dealing_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/game_initial_bets_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/game_payout_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/game_playing_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/game_setup_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/hand_blackjack_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/hand_busted_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/hand_payout_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/hand_value_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/shoe_test.rb.svn-base
+#	deleted:    test/unit/.svn/prop-base/split_hand_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/action_execution_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/action_map_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/dealer_hand_action_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/game_dealing_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/game_initial_bets_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/game_payout_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/game_playing_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/game_setup_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/hand_blackjack_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/hand_busted_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/hand_payout_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/hand_value_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/shoe_test.rb.svn-base
+#	deleted:    test/unit/.svn/text-base/split_hand_test.rb.svn-base
+#
+
